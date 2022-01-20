@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1812px" height="657px" viewBox="0 0 1812 657" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shape3</title>
+    <defs>
+        <linearGradient x1="1.99854927%" y1="46.5377685%" x2="100%" y2="53.3595979%" id="linearGradient-1">
+            <stop stop-color="#43BBD9" offset="0%"></stop>
+            <stop stop-color="#861192" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-6.2%" y="-20.9%" width="112.4%" height="141.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="34" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.314135174">
+        <path d="M1638.94142,558.554646 C1512.89895,613.615075 81.5,477.452122 81.5,351.706007 C81.5,267.875263 129.154945,206.366315 224.464836,167.179163 C311.605308,125.511811 400.690879,115.094974 491.72155,135.928649 C628.267557,167.179163 705.29351,205.126216 798.658301,146.345487 C892.023092,87.564759 961.463155,22.8315518 1138.27273,196.197497 C1256.14578,311.774795 1359.04156,354.434226 1446.96007,324.175792 C1513.8715,280.524281 1587.39627,295.157458 1667.53439,368.075323 C1761.82974,453.874897 1748.53049,510.681723 1638.94142,558.554646 Z" id="shape3" fill="url(#linearGradient-1)" filter="url(#filter-2)"></path>
+    </g>
+</svg>
