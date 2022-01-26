@@ -12,6 +12,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   height: 100%;
+  scroll-behavior: smooth;
 }
 
 * {
@@ -276,7 +277,7 @@ fieldset {
 }
 
 .main-head {
-  font-size: 80px;
+  font-size: 90px;
   line-height: 1.1;
   margin-bottom: 0;
   font-weight: 800;
@@ -284,7 +285,7 @@ fieldset {
 }
 
 .hero-inner-txt-wrap {
-  max-width: 750px;
+  max-width: 790px;
 }
 
 .txt26 {
@@ -413,6 +414,7 @@ fieldset {
 .num-wrap {
   text-align: center;
   margin: 0 20px;
+  margin-top: -40px;
 }
 
 .color-num {
@@ -450,7 +452,7 @@ input[type="reset"] {
 }
 
 .portfolio {
-  margin-top: -230px;
+  margin-top: -260px;
   background: white;
   padding: 300px 0 100px;
 }
@@ -490,6 +492,7 @@ input[type="reset"] {
   color: White;
   padding: 60px 0;
   position: relative;
+  margin-top: -40px;
 }
 
 .color-txt-wrap {
@@ -651,7 +654,7 @@ input[type="reset"] {
   width: 100%;
   border: none;
   padding: 18px;
-  border-radius: 30px;
+  border-radius: 20px;
   margin-bottom: 20px;
   color: #002542;
 }
@@ -843,6 +846,24 @@ input[type="reset"] {
 
 .bgl-close-menu-btn {
   display: none;
+}
+
+.small-title {
+  font-size: 45px;
+  font-weight: 200;
+  display: block;
+}
+
+.big-quote {
+  font-size: 200px;
+  position: absolute;
+  left: -10px;
+  top: 50px;
+  opacity: 0.2;
+}
+
+.thesis {
+  margin-top: -40px;
 }
 
 @media screen and (max-width: 767px) {
