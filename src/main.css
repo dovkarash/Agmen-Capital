@@ -231,12 +231,12 @@ fieldset {
 
 ::-moz-selection {
   color: white;
-  background: #861192;
+  background: #004C77;
 }
 
 ::selection {
   color: white;
-  background: #861192;
+  background: #004C77;
 }
 
 .main-hero {
