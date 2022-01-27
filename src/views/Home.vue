@@ -143,7 +143,7 @@
                 ></div>
                 <a
                     class="txt bold"
-                    href="company.linkCompany"
+                    :href="company.linkCompany"
                     target="_blank"
                 >{{ company.linkCompany }}</a>
               </div>
