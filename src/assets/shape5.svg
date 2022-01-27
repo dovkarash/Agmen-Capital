@@ -3,9 +3,9 @@
     <title>shape5</title>
     <defs>
         <linearGradient x1="-1.48040271%" y1="49.3927453%" x2="100%" y2="52.6100567%" id="linearGradient-1">
-            <stop stop-color="#403F7E" offset="0%"></stop>
-            <stop stop-color="#7E208F" offset="29.8056045%"></stop>
-            <stop stop-color="#3A5F9F" offset="100%"></stop>
+            <stop stop-color="#132772" offset="0%"></stop>
+            <stop stop-color="#1D147F" offset="29.8056045%"></stop>
+            <stop stop-color="#163682" offset="100%"></stop>
         </linearGradient>
         <filter x="-4.8%" y="-19.0%" width="109.6%" height="138.1%" filterUnits="objectBoundingBox" id="filter-2">
             <feGaussianBlur stdDeviation="34" in="SourceGraphic"></feGaussianBlur>

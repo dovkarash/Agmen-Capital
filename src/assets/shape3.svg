@@ -3,8 +3,8 @@
     <title>shape3</title>
     <defs>
         <linearGradient x1="1.99854927%" y1="46.5377685%" x2="100%" y2="53.3595979%" id="linearGradient-1">
-            <stop stop-color="#43BBD9" offset="0%"></stop>
-            <stop stop-color="#861192" offset="100%"></stop>
+            <stop stop-color="#117A9F" offset="0%"></stop>
+            <stop stop-color="#1B5089" offset="100%"></stop>
         </linearGradient>
         <filter x="-6.2%" y="-20.9%" width="112.4%" height="141.9%" filterUnits="objectBoundingBox" id="filter-2">
             <feGaussianBlur stdDeviation="34" in="SourceGraphic"></feGaussianBlur>
