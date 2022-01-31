@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1453px" height="981px" viewBox="0 0 1453 981" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1453px" height="982px" viewBox="0 0 1453 982" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>shape4</title>
     <defs>
         <filter x="-12.4%" y="-20.4%" width="124.9%" height="140.8%" filterUnits="objectBoundingBox" id="filter-1">
             <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
         </filter>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.736055596">
-        <path d="M725.326129,744.220567 C1072.82613,1077.72057 1328.82613,594.907531 1328.82613,410.720567 C1328.82613,226.533603 1202.82613,-20.7794328 812.826129,231.720567 C422.826129,484.220567 121.826129,226.533603 121.826129,410.720567 C121.826129,594.907531 377.826129,410.720567 725.326129,744.220567 Z" id="shape4" fill="#0794B5" filter="url(#filter-1)"></path>
+    <g id="dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.736055596">
+        <path d="M725.342757,744.731309 C1072.84276,1078.23131 1328.84276,595.418273 1328.84276,411.231309 C1328.84276,227.044345 1202.84276,-20.2686912 812.842757,232.231309 C422.842757,484.731309 121.842757,227.044345 121.842757,411.231309 C121.842757,595.418273 377.842757,411.231309 725.342757,744.731309 Z" id="shape4" fill="#47AEC7" filter="url(#filter-1)"></path>
     </g>
 </svg>

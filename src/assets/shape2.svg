@@ -6,7 +6,7 @@
             <feGaussianBlur stdDeviation="50" in="SourceGraphic"></feGaussianBlur>
         </filter>
     </defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.536518895">
-        <path d="M812,599.762489 C1211.0348,855.37689 1505,485.320023 1505,344.148087 C1505,202.976151 1360.314,13.420608 912.476388,206.951752 C464.638774,400.482895 119,202.976151 119,344.148087 C119,485.320023 412.965203,344.148087 812,599.762489 Z" id="shape2" fill="#2B869B" filter="url(#filter-1)"></path>
+    <g id="dev" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.536518895">
+        <path d="M812,599.352631 C1211.0348,854.967033 1505,484.910165 1505,343.738229 C1505,202.566294 1360.314,13.0107503 912.476388,206.541894 C464.638774,400.073038 119,202.566294 119,343.738229 C119,484.910165 412.965203,343.738229 812,599.352631 Z" id="shape2" fill="#8ABBC6" filter="url(#filter-1)"></path>
     </g>
 </svg>
