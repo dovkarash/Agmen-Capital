@@ -1,4 +1,5 @@
 # bagel-empty
+This project was made using BagelStudio visual coder
 
 ## Project setup
 ```
