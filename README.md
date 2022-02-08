@@ -1,5 +1,5 @@
 # bagel-empty
-This project was made using BagelStudio visual coder read more [here](https://bagelstudio.co)
+This project was made using BagelStudio visual coder read more [here](https://bagelstudio.co){:target="_blank"}
 
 ## Project setup
 ```
