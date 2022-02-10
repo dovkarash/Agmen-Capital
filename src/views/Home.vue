@@ -53,9 +53,9 @@
 
       <div class="hero-txt-wrap">
         <div class="hero-inner-txt-wrap">
-           <h1 class="main-head"><span class="small-title">We invest in</span>Innovation Growth &amp; Momentum.</h1>
+           <h1 class="main-head"><span class="small-title">We invest in</span>Innovation Growth &amp; Momentum</h1>
           <p class="txt26">Agmen invests in rapidly growing companies with great momentum and
-          disruptive technology</p>
+        disruptive technology</p>
         </div>
       </div>
 
