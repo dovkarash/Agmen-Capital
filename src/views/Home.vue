@@ -153,7 +153,7 @@
     <div class="color-sec thesis">
       <div class="color-txt-wrap">
         <h3 class="main-head">Investment Thesis</h3>
-        <p class="txt26">Agmen Capital invests in late stage technology companies with serious momentum, marketshare growth, disruptive in industries</p>
+        <p class="txt26">Agmen Capital invests in late stage technology companies with serious momentum, market share growth, disruptive in industries</p>
       </div>
       <div class="backbox1"></div>
     </div>
