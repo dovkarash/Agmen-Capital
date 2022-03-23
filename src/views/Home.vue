@@ -79,7 +79,7 @@
             
         >
           <h1
-              class="main-head"
+              class="main-head left"
               
           >
             <span
@@ -279,11 +279,16 @@
         <h3
             class="main-head"
             
-        >The Fund</h3>
+        >Progress
+        <span
+            
+            class="amp"
+        >&amp;</span>
+        Movement</h3>
         <p
             class="txt"
             
-        >With no sector, cap limits, or complex structures. We have the liberty to explore partnering with founders that have an appetite for enormous growth and building companies that are meaningful to the world.<br  />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement, for us, it's not just a name, we think fast and act fast. We expect the same from our portfolio companies. Since its founding in 2021, Agmen has invested in 9 companies, including Glossier, Brain Corp, ​​Tanium, Omada.</p>
+        >With no sector, cap limits, or complex structures. We have the liberty to explore partnering with founders that have an appetite for enormous growth and building companies that are meaningful to the world.<br  />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement, for us, it's not just a name, we think fast and act fast. We partner with founders that share the same vision. Since its founding in 2021, Agmen has invested in 9 companies, including Glossier, Brain Corp, ​​Tanium, Omada.</p>
         <img
             src="../assets/white-icon.svg"
             height=""
@@ -330,10 +335,8 @@
           <p
               class="txt26"
               
-          >
-            “Truly visionary founders can’t help but take the risk because the
-            impact is just too big not to pursue.”
-          </p>
+          >A visionary can’t help but take the risk because the
+          impact is just too big not to pursue.</p>
           <p
               class="big-quote"
               
@@ -354,13 +357,10 @@
           <p
               class="txt"
               
-          >
-            As a founder and venture capitalist, Yehuda Schmukler is a bridge
-            for founders. Yehuda speaks real business and knows to recognise
-            real opportunities. Yehuda has built and managed multiple successful
-            ventures in the healthcare industry and has been fortunate to invest
-            in very impactful companies.
-          </p>
+          >As a founder and venture capitalist, Yehuda Schmukler is a bridge
+      for founders. Yehuda speaks real business and knows to recognize
+      real opportunities. Yehuda has built and managed multiple successful healthcare companies and has been fortunate to invest
+      in very impactful companies such as Chargepoint, Clover Health, DigitalOcean, DoorDash, Instacart, Nextdoor, Palantir, Sprinklr, Wish.</p>
         </div>
       </div>
     </div>
@@ -429,13 +429,10 @@
         >
           <p >Thank you for getting in touch!</p>
         </div>
-        <p >
-          Email: info@agmencapital.com <span
-                                           class="cont-sep"
-                                           
-                                       >|</span> Phone:
-          0000000000
-        </p>
+        <p >Email: info@agmencapital.com <span
+                                 
+                                 class="cont-sep"
+                             >|</span> Phone: 213-556-6511</p>
         <a
             href="https://www.linkedin.com/company/agmencapital/"
             target="_blank"
