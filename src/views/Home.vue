@@ -158,11 +158,12 @@
         <h3
             class="color-num"
             
-        >8</h3>
+        >9</h3>
+        <!-- Make a rolling number -->
         <p
             class="under-num"
             
-        >Acquisitions</p>
+        >Investments</p>
       </div>
     </div>
     <div
