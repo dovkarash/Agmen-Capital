@@ -26,7 +26,6 @@
           <p class="txt26">We invest in companies that change a paradigm make a difference.</p>
         </div>
       </div>
-
       <div class="animation">
         <img src="../assets/shape1.svg" height width class="shape1" />
         <img src="../assets/shape2.svg" height width class="shape2" />
@@ -110,20 +109,16 @@
         <div class="mang-side">
           <img src="../assets/Schmukler.jpg" height width class="profie" />
           <p class="txt26">
-            A visionary can’t help but take the risk because the
-            impact is just too big not to pursue.
+            A visionary can’t help but take the risk because the impact is just too big not to pursue.
           </p>
           <p class="big-quote">"</p>
           <div class="profile-back-box"></div>
         </div>
         <div class="mange-main">
           <h3 class="main-head">Managing Principle</h3>
-          <p class="txt">
-            As a founder and venture capitalist, Yehuda Schmukler is a bridge
-            for founders. Yehuda speaks real business and knows to recognize
-            real opportunities. Yehuda has built and managed multiple successful healthcare companies and has been fortunate to invest
-            in very impactful companies such as Chargepoint, Clover Health, DigitalOcean, DoorDash, Instacart, Nextdoor, Palantir, Sprinklr, Wish.
-          </p>
+          <p
+            class="txt"
+          >As a founder and venture capitalist, Yehuda Schmukler is a bridge for founders. Yehuda speaks real business and knows to recognize real opportunities. Yehuda has built and managed multiple successful healthcare companies and has been fortunate to invest in very impactful companies such as Chargepoint, Clover Health, DigitalOcean, DoorDash, Instacart, Nextdoor, Palantir, Sprinklr, Wish.</p>
         </div>
       </div>
     </div>
@@ -187,7 +182,6 @@
     </div>
   </div>
 </template>
-
 
 <script>
 export default {
