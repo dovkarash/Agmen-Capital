@@ -96,7 +96,7 @@
         </h3>
         <p class="txt">
           With no sector, cap limits, or complex structures. We have the liberty to explore partnering with founders that have an appetite for enormous growth and building companies that are meaningful to the world.
-          <br />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement, for us, it's not just a name, we think fast and act fast. We partner with founders that share the same vision. Since its founding in 2021, Agmen has invested in 9 companies, including Glossier, Brain Corp, ​​Tanium, Omada.
+          <br />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement, for us, it's not just a name, we think fast and act fast. We partner with founders that share the same vision. Since its founding in 2021, Agmen has invested in 9 companies, including Glossier, Brain Corp, Tanium, Omada.
         </p>
         <img src="../assets/white-icon.svg" height width class="icon" />
       </div>
@@ -108,9 +108,9 @@
       <div class="managing-wrap">
         <div class="mang-side">
           <img src="../assets/Schmukler.jpg" height width class="profie" />
-          <p class="txt26">
-            A visionary can’t help but take the risk because the impact is just too big not to pursue.
-          </p>
+          <p
+            class="txt26"
+          >A visionary can’t help but take the risk because the impact is just too big not to pursue.</p>
           <p class="big-quote">"</p>
           <div class="profile-back-box"></div>
         </div>

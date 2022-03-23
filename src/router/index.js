@@ -10,11 +10,15 @@ const routes = [{
   path: '/',
   name: 'Home',
   component: Home
-}, { path:'/privacyPolicy',
-            name:'PrivacyPolicy',
-            component:privacypolicy }, { path:'/termsOfUse',
-            name:'TermsOfUse',
-            component:termsofuse }]
+}, {
+  path: '/privacyPolicy',
+  name: 'PrivacyPolicy',
+  component: privacypolicy
+}, {
+  path: '/termsOfUse',
+  name: 'TermsOfUse',
+  component: termsofuse
+}]
 
 const router = new VueRouter({
   mode: 'history',
