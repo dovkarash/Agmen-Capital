@@ -16,7 +16,7 @@
         <div @click="openSideBar = true" class="menu-btn">
           <img src="../assets/menu.svg" height width />
         </div>
-      </div>ƒ
+      </div>
       <div class="hero-txt-wrap">
         <div class="hero-inner-txt-wrap">
           <h1 class="main-head left">
