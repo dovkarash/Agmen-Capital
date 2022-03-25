@@ -58,8 +58,8 @@
           >Contact Us</a>
           <button
               type="button"
-              
               class="cta"
+              
           >Investor Login</button>
         </div>
         <div
@@ -155,7 +155,7 @@
         <p
             class="under-num"
             
-        >Investedsince 2021</p>
+        >Invested<br />since 2021</p>
       </div>
       <div
           class="num-wrap"
@@ -164,7 +164,7 @@
         <h3
             class="color-num"
             
-        >10</h3>
+        >9</h3>
         <!-- Make a rolling number -->
         <p
             class="under-num"
