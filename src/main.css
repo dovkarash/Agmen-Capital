@@ -429,8 +429,10 @@ fieldset {
 }
 
 .under-num {
-  font-size: 45px;
+  font-size: 30px;
   margin: 0;
+  max-width: 245px;
+  line-height: 34px;
 }
 
 button,
@@ -882,6 +884,18 @@ input[type="reset"] {
 
 .left {
   text-align: left;
+}
+
+.cta {
+  border-radius: 100px;
+  padding: 10px 30px;
+  background: white;
+  color: black;
+  transition: 200ms all ease;
+}
+
+.cta:hover {
+  transform: translate(0, -4px);
 }
 
 @media screen and (max-width: 767px) {
