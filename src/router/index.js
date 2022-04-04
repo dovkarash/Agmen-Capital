@@ -1,3 +1,4 @@
+import team from '../views/Team.vue'
 import termsofuse from '../views/Termsofuse.vue'
 import privacypolicy from '../views/Privacypolicy.vue'
 import Vue from 'vue'
@@ -18,7 +19,9 @@ const routes = [{
   path: '/termsOfUse',
   name: 'TermsOfUse',
   component: termsofuse
-}]
+}, { path:'/team',
+            name:'Team',
+            component:team }]
 
 const router = new VueRouter({
   mode: 'history',
