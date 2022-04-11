@@ -399,7 +399,7 @@ fieldset {
 
 .info-box {
   background: white;
-  padding: 70px 0;
+  padding: 100px 0 70px;
   max-width: 970px;
   width: 90%;
   margin: 0 auto;
@@ -537,7 +537,8 @@ input[type="reset"] {
   position: relative;
   padding-top: 200px;
   padding-bottom: 100px;
-  background: white;
+  background: #F7F7F7;
+  margin-bottom: 80px;
 }
 
 .fund-box {
@@ -589,10 +590,14 @@ input[type="reset"] {
 .white-bot {
   height: 140px;
   position: absolute;
-  background: white;
+  background: #F7F7F7;
   z-index: 1;
   width: 100%;
   bottom: 0;
+}
+
+.hide {
+  display: none;
 }
 
 .managing-sec {
@@ -609,6 +614,10 @@ input[type="reset"] {
   margin: 0 auto;
   justify-content: space-between;
   display: flex;
+}
+
+.managing-wrap.pad {
+  margin-bottom: 60px;
 }
 
 .mang-side {
@@ -629,7 +638,10 @@ input[type="reset"] {
   border-radius: 30px;
   z-index: 2;
   position: relative;
-  max-height: 400px;
+  max-height: 300px;
+  width: 100%;
+  object-fit: cover;
+  object-position: top;
 }
 
 .profile-back-box {
@@ -992,6 +1004,7 @@ input[type="reset"] {
 
   .profie {
     margin: 0 auto;
+    width: 70%;
   }
 
   .footer-link {
