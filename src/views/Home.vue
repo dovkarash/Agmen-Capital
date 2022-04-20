@@ -102,7 +102,7 @@
           <p
               class="txt26"
               
-          >We invest in companies that change a paradigm make a difference.</p>
+          >Empowering highly innovative companies reach the next level of growth</p>
         </div>
       </div>
       <div
@@ -269,11 +269,7 @@
         <p
             class="txt26"
             
-        >
-          We invest in companies with a massive vision, a good plan and the
-          tenacity to execute. We empower our founders to lead and charge
-          forward
-        </p>
+        >We invest in innovative companies that strive to impact and advance their industry. Our founders fearlessly lead into the future with a passion for bringing a meaningful change to the world. Agmen’s mission is to empower and support our founders as they charge this incredible journey.</p>
       </div>
       <div
           class="backbox1"
