@@ -62,11 +62,12 @@
               class="nav-link"
               
           >Contact Us</a>
-          <button
+          <a
               type="button"
               class="cta"
+              href="https://www.navconsulting.net/NAVPortal/default.aspx"
               
-          >Investor Login</button>
+          >Investor Login</a>
         </div>
         <div
             @click="openSideBar = true"
@@ -455,8 +456,8 @@ Corp, Tanium, Omada.</p>
         <p >
         Email: info@agmencapital.com
         <span
-            
             class="cont-sep"
+            
         >|</span> Phone: 213-556-6511
       </p>
         <a

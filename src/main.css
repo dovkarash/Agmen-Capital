@@ -905,6 +905,7 @@ input[type="reset"] {
   background: white;
   color: black;
   transition: 200ms all ease;
+  text-decoration: none;
 }
 
 .cta:hover {
