@@ -301,7 +301,7 @@
             class="txt"
             
         >Our size allows us to move quickly and operate with a high level of efficiency. With no cap or sector limits, we are free to invest in great companies - any industry or niche. We look for dreamers, visionaries, pioneers, and game-changers.<br  /><br  />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement,&nbsp;and this is exactly what we aim to create. Since its founding
-in 2021, Agmen has invested in 0 companies, including Glossier, Brain
+in 2021, Agmen has invested in {{companies.length}} companies, including Glossier, Brain
 Corp, Tanium, Omada.</p>
         <img
             src="../assets/white-icon.svg"
