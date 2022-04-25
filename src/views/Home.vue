@@ -299,9 +299,9 @@
         <p
             class="txt"
             
-        >Our size allows us to move quickly and operate with a high level of efficiency. With no cap or sector limits, we are free to invest in promising companies in any industry or niche. We look for dreamers, visionaries, pioneers, and game-changers. Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement,&nbsp;and this is exactly what we aim to create. Since its founding
-    in 2021, Agmen has invested in {{companies.length}} companies, including Glossier, Brain
-    Corp, Tanium, Omada.</p>
+        >Our size allows us to move quickly and operate with a high level of efficiency. With no cap or sector limits, we are free to invest in great companies - any industry or niche. We look for dreamers, visionaries, pioneers, and game-changers.<br  /><br  />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement,&nbsp;and this is exactly what we aim to create. Since its founding
+in 2021, Agmen has invested in 0 companies, including Glossier, Brain
+Corp, Tanium, Omada.</p>
         <img
             src="../assets/white-icon.svg"
             height=""
@@ -453,12 +453,12 @@
           <p >Thank you for getting in touch!</p>
         </div>
         <p >
-          Email: info@agmencapital.com
-          <span
-              class="cont-sep"
-              
-          >|</span> Phone: 213-556-6511
-        </p>
+        Email: info@agmencapital.com
+        <span
+            
+            class="cont-sep"
+        >|</span> Phone: 213-556-6511
+      </p>
         <a
             href="https://www.linkedin.com/company/agmencapital/"
             target="_blank"
