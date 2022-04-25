@@ -5,7 +5,8 @@ module.exports = {
 			renderRoutes: [
 				'/',
 				'/Privacypolicy',
-				'/Termsofuse'
+				'/Termsofuse',
+				'/team'
 			],
 			useRenderEvent: true,
 			onlyProduction: true,
