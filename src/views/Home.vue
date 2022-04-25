@@ -269,7 +269,7 @@
         <p
             class="txt26"
             
-        >We invest in innovative companies that strive to impact and advance their industry. Our founders fearlessly lead into the future, determined to bring a meaningful change to the world. Agmen’s mission is to empower and support our founders as they charge this incredible journey.</p>
+        >We invest in innovative companies that strive to impact and advance their industry. Our founders fearlessly&nbsp;lead into the future, determined to bring a meaningful change to the world. Agmen’s mission is to empower and support our founders as they charge this incredible journey.</p>
       </div>
       <div
           class="backbox1"
@@ -299,15 +299,9 @@
         <p
             class="txt"
             
-        >Our size allows us to move quickly and operate with a high level of efficiency. With no cap or sector limits, we are free to invest in promising companies in any industry or niche. We look for dreamers, visionaries, pioneers, and game-changers. Agmen means “progress &amp; movement” in Latin, and this is exactly what we aim to create.<br
-                                                                                                                                                                                                                                                                                                                                                   data-v-2f2be7e4=""
-                                                                                                                                                                                                                                                                                                                                                   
-                                                                                                                                                                                                                                                                                                                                                />Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp;
-        movement, for us, it's not just a name, we think fast and act fast. We
-        partner with founders that share the same vision. Since its founding
-        in 2021, Agmen has invested in 9 companies, including Glossier, Brain
-        Corp, Tanium, Omada.
-      </p>
+        >Our size allows us to move quickly and operate with a high level of efficiency. With no cap or sector limits, we are free to invest in promising companies in any industry or niche. We look for dreamers, visionaries, pioneers, and game-changers. Agmen /ˈaɡ.men/, [ˈäɡmɛn] in latin, means progress &amp; movement,&nbsp;and this is exactly what we aim to create. Since its founding
+    in 2021, Agmen has invested in {{companies.length}} companies, including Glossier, Brain
+    Corp, Tanium, Omada.</p>
         <img
             src="../assets/white-icon.svg"
             height=""
