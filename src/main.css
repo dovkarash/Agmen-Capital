@@ -430,7 +430,7 @@ fieldset {
 
 .under-num {
   font-size: 30px;
-  margin: 0;
+  margin: 0 auto;
   max-width: 245px;
   line-height: 34px;
 }
@@ -912,7 +912,25 @@ input[type="reset"] {
   transform: translate(0, -4px);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1060px) {
+
+  .nav-link {
+    margin: 0 10px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .amp {
+    font-size: 40px;
+    margin-bottom: -14px;
+  }
+
+  .cta {
+    margin: 0 5%;
+    width: 90%;
+    text-align: center;
+  }
+
   .main-head {
     font-size: 40px;
   }
