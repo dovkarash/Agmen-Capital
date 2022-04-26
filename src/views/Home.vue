@@ -171,7 +171,7 @@
         <h3
             class="color-num"
             
-        >9</h3>
+        >{{companies.length}}</h3>
         <!-- Make a rolling number -->
         <p
             class="under-num"
