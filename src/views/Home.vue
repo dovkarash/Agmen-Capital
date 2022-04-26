@@ -137,7 +137,6 @@
             A visionary can’t help but take the risk because the impact is just
             too big not to pursue.
           </p>
-          <p class="big-quote">"</p>
           <div class="profile-back-box"></div>
         </div>
         <div class="mange-main">
