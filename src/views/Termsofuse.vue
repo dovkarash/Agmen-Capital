@@ -1,135 +1,52 @@
 
       <template >
-  <div
-      class="home"
-      
-  >
-    <div
-        class="main-hero info"
-        
-    >
-      <div
-          class="menu"
-          
-      >
-        <router-link
-            to="/"
-            class="logo-wrap"
-            
-        >
-          <img
-              src="../assets/white-logo.svg"
-              height=""
-              width=""
-              
-           />
+  <div class="home">
+    <div class="main-hero info">
+      <div class="menu">
+        <router-link to="/" class="logo-wrap">
+          <img src="../assets/white-logo.svg" height="" width="" />
         </router-link>
-        <div
-            class="menu-links-wrap"
-            
-        >
-          <a
-              href="/#fund"
-              class="nav-link"
-              
-          >Our Firm</a>
-          <router-link
-              to="/team"
-              class="nav-link"
-              
-          >Team</router-link>
+        <div class="menu-links-wrap" :class="{ open: openSideBar }">
+          <div @click="openSideBar = false" href="" class="bgl-close-menu-btn">
+            <img src="../assets/close.svg" height="" width="" />
+          </div>
+          <a href="/#fund" class="nav-link">Our Firm</a>
+          <router-link to="/team" class="nav-link">Team</router-link>
 
+          <a href="/#portfolio" class="nav-link">Portfolio Companies</a>
+          <a href="/#contact" class="nav-link">Contact Us</a>
           <a
-              href="/#portfolio"
-              class="nav-link"
-              
-          >Portfolio Companies</a>
-          <a
-              href="/#contact"
-              class="nav-link"
-              
-          >Contact Us</a><a
-                             type="button"
-                             class="cta"
-                             href="https://www.navconsulting.net/NAVPortal/default.aspx"
-                             
-                         >Investor Login</a>
+            type="button"
+            class="cta"
+            href="https://www.navconsulting.net/NAVPortal/default.aspx"
+            >Investor Login</a
+          >
         </div>
-        <div
-            class="menu-btn"
-            
-        >
-          <img
-              src="../assets/menu.svg"
-              height=""
-              width=""
-              
-           />
+        <div @click="openSideBar = true" class="menu-btn">
+          <img src="../assets/menu.svg" height="" width="" />
         </div>
       </div>
 
-      <div
-          class="animation"
-          
-      >
-        <img
-            src="../assets/shape1.svg"
-            height=""
-            width=""
-            class="shape1"
-            
-         />
-        <img
-            src="../assets/shape2.svg"
-            height=""
-            width=""
-            class="shape2"
-            
-         />
-        <img
-            src="../assets/shape3.svg"
-            height=""
-            width=""
-            class="shape3"
-            
-         />
-        <img
-            src="../assets/shape4.svg"
-            height=""
-            width=""
-            class="shape4"
-            
-         />
-        <img
-            src="../assets/shape5.svg"
-            height=""
-            width=""
-            class="shape5"
-            
-         />
+      <div class="animation">
+        <img src="../assets/shape1.svg" height="" width="" class="shape1" />
+        <img src="../assets/shape2.svg" height="" width="" class="shape2" />
+        <img src="../assets/shape3.svg" height="" width="" class="shape3" />
+        <img src="../assets/shape4.svg" height="" width="" class="shape4" />
+        <img src="../assets/shape5.svg" height="" width="" class="shape5" />
       </div>
     </div>
-    <div
-        class="back-info-box"
-        
-    ></div>
-    <div
-        class="info-box-page"
-        
-    >
-      <h1 >Terms of use</h1>
-      <div
-          class="txt"
-          
-      >
-        <p >
+    <div class="back-info-box"></div>
+    <div class="info-box-page">
+      <h1>Terms of use</h1>
+      <div class="txt">
+        <p>
           These Terms and Conditions of Use (the "Terms of Use") apply to the
           Agmen Asset Management LLC. (hereafter: The Company) web site located
           at https://agmencapital.com, and all associated sites linked to it by
           Agmen Capital, it's subsidiaries and/or affiliates.This Site is owned
           and operated by the company. Please read these Terms of Use carefully
           before using the Site.
-          <br  />By accessing or using the Site or any of the content on the Site
+          <br />By accessing or using the Site or any of the content on the Site
           you agree to be legally bound by these Terms of Use. If you do not
           accept these Terms of Use, do not use the Site or any of the content
           (defined below). Agmen reserves the right, at its sole discretion, to
@@ -140,62 +57,34 @@
         </p>
       </div>
     </div>
-    <div
-        class="footer"
-        
-    >
-      <router-link
-          to="/"
-          class="footer-logo"
-          
-      >
-        <img
-            src="../assets/Agmen-logo-dark.svg"
-            height=""
-            width=""
-            
-         />
+    <div class="footer">
+      <router-link to="/" class="footer-logo">
+        <img src="../assets/Agmen-logo-dark.svg" height="" width="" />
       </router-link>
-      <div
-          class="footer-links-wrap"
-          
-      >
-        <a
-            href="/#fund"
-            class="footer-link"
-            
-        >Our Firm</a>
-        <router-link
-            to="/team"
-            class="footer-link"
-            
-        >Team</router-link>
+      <div class="footer-links-wrap">
+        <a href="/#fund" class="footer-link">Our Firm</a>
+        <router-link to="/team" class="footer-link">Team</router-link>
 
-        <a
-            href="/#portfolio"
-            class="footer-link"
-            
-        >Portfolio Companies</a>
-        <a
-            href="/#contact"
-            class="footer-link"
-            
-        >Contact Us</a>
-        <router-link
-            to="Privacypolicy"
-            class="footer-link"
-            
-        >Privacy Policy</router-link>
-        <router-link
-            to="Termsofuse"
-            class="footer-link"
-            
-        >Terms of Use</router-link>
+        <a href="/#portfolio" class="footer-link">Portfolio Companies</a>
+        <a href="/#contact" class="footer-link">Contact Us</a>
+        <router-link to="Privacypolicy" class="footer-link"
+          >Privacy Policy</router-link
+        >
+        <router-link to="Termsofuse" class="footer-link"
+          >Terms of Use</router-link
+        >
       </div>
     </div>
   </div>
 </template>
 
       <script>
-export default {};
+export default {
+  data() {
+    return {
+      openPopup: null,
+      openSideBar: false,
+    };
+  },
+};
 </script>
