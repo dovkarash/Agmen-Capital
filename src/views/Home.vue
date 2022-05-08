@@ -1,7 +1,8 @@
-<template >
+<template>
   <div class="home">
     <div class="main-hero">
-      <div class="menu">
+      <Topnav />
+      <!-- <div class="menu">
         <router-link to="/" class="logo-wrap">
           <img src="../assets/white-logo.svg" height="" width="" />
         </router-link>
@@ -21,10 +22,11 @@
             >Investor Login</a
           >
         </div>
+
         <div @click="openSideBar = true" class="menu-btn">
           <img src="../assets/menu.svg" height="" width="" />
         </div>
-      </div>
+      </div> -->
       <div class="hero-txt-wrap">
         <div class="hero-inner-txt-wrap">
           <h1 class="main-head left">
@@ -66,7 +68,7 @@
         >
           <img :src="company.logo.imageURL" />
         </div>
-        <div v-for="company in companies" :key="company._id">
+        <div v-for="company in companies" :key="company._id + 'popup'">
           <div class="popup-wrap" :class="{ open: openPopup === company._id }">
             <div class="popup">
               <div @click="openPopup = null" class="close-pop">
@@ -229,7 +231,9 @@
 </template>
 
 <script>
+import Topnav from "../components/topnav.vue";
 export default {
+  components: { Topnav },
   data() {
     return {
       openPopup: null,
@@ -259,7 +263,6 @@ export default {
       .collection("companies")
       .query("draft", "=", false)
       .get();
-    console.log(companies);
     this.companies = companies;
   },
   name: "Home",
