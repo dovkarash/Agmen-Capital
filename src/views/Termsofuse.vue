@@ -1,31 +1,7 @@
-
-      <template >
+<template>
   <div class="home">
     <div class="main-hero info">
-      <div class="menu">
-        <router-link to="/" class="logo-wrap">
-          <img src="../assets/white-logo.svg" height="" width="" />
-        </router-link>
-        <div class="menu-links-wrap" :class="{ open: openSideBar }">
-          <div @click="openSideBar = false" href="" class="bgl-close-menu-btn">
-            <img src="../assets/close.svg" height="" width="" />
-          </div>
-          <a href="/#fund" class="nav-link">Our Firm</a>
-          <router-link to="/team" class="nav-link">Team</router-link>
-
-          <a href="/#portfolio" class="nav-link">Portfolio Companies</a>
-          <a href="/#contact" class="nav-link">Contact Us</a>
-          <a
-            type="button"
-            class="cta"
-            href="https://www.navconsulting.net/NAVPortal/default.aspx"
-            >Investor Login</a
-          >
-        </div>
-        <div @click="openSideBar = true" class="menu-btn">
-          <img src="../assets/menu.svg" height="" width="" />
-        </div>
-      </div>
+      <Topnav />
 
       <div class="animation">
         <img src="../assets/shape1.svg" height="" width="" class="shape1" />
@@ -78,7 +54,7 @@
   </div>
 </template>
 
-      <script>
+<script>
 export default {
   data() {
     return {
