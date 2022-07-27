@@ -67,10 +67,7 @@
               class="txt26"
               
           >
-            Empowering highly innovative companies reach the next level of growth
-
-
-          </p>
+            I have new content here</p>
         </div>
       </div>
     </div>
@@ -185,25 +182,7 @@
         class="color-sec thesis"
         
     >
-      <div
-          class="color-txt-wrap"
-          
-      >
-        <h3
-            class="main-head"
-            
-        >What We Do</h3>
-        <p
-            class="txt26"
-            
-        >
-          We invest in innovative companies that strive to impact and advance
-          their industry. Our founders fearlessly&nbsp;lead into the future,
-          determined to bring a meaningful change to the world. Agmen’s mission
-          is to empower and support founders as they charge this incredible
-          journey.
-        </p>
-      </div>
+      <infobox ></infobox>
       <div
           class="backbox1"
           
@@ -239,7 +218,7 @@
           visionaries, pioneers, and game-changers.<br  /><br  />Agmen /ˈaɡ.men/,
           [ˈäɡmɛn] in latin, means progress &amp; movement, and this is exactly
           what we aim to create. Since its founding in 2021, Agmen has invested
-          in {{ companies.length }} companies, including Glossier, Brain Corp,
+          in 0 companies, including Glossier, Brain Corp,
           Tanium, and Omada health.
         </p>
         <img
@@ -413,11 +392,10 @@
           class="backbox1 fund cont"
           
       ></div>
-    </div>
-    <div
-        class="footer"
-        
-    >
+    </div><div
+              class="footer"
+              
+          >
       <router-link
           to="/"
           class="footer-logo"
@@ -471,8 +449,11 @@
 </template>
 
 <script>
+import Infobox from '@/components/Infobox.vue';
 export default {
-    components: {},
+    components: {
+        Infobox
+    },
     data() {
       return {
         openPopup: null,

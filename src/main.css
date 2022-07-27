@@ -405,12 +405,12 @@ fieldset {
   margin: 0 auto;
   position: relative;
   z-index: 10;
-  border-radius: 30px;
   color: #002542;
   justify-content: space-evenly;
   margin-top: -100px;
   box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.15);
   display: flex;
+  border-radius: 30px;
 }
 
 .num-wrap {
@@ -911,6 +911,14 @@ input[type="reset"] {
 
 .cta:hover {
   transform: translate(0, -4px);
+}
+
+.my-big-blue-box {
+  background: Blue;
+  height: 300px;
+  z-index: 999999;
+  position: fixed;
+  width: 300px;
 }
 
 @media screen and (max-width: 1060px) {
